@@ -1,4 +1,4 @@
-<p align="center"><b style="color: blue;">Visitor count</b>
+<p align="center"><b style="color: blue;">Total Visitor</b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
     <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />

@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px; border-radius=15px">
 </a>
 
-# 💫 Hey, I am Siddhartha Raghuvanshi🎯
+# 💫 Hey, <br> I am Siddhartha Raghuvanshi🎯
 I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions.
 
 • Achieved 2nd Rank in my MCA program at IIMT University.

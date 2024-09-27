@@ -26,7 +26,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 ## 🌐 Let's Connect 🧷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-raghuvanshi/) [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFZbSgBGXMCtdPQSnMQJftPBZmNlnRGPVMSQtVjpgHVHxfgbDsNlvBSZHdpKTLpQMZWL)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/honeybunnysidd/)  [![Gmail](https://img.shields.io/badge/-contact.siddhartharaghuvanshi01@gmail.com-c14438?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFZbSgBGXMCtdPQSnMQJftPBZmNlnRGPVMSQtVjpgHVHxfgbDsNlvBSZHdpKTLpQMZWL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/honeybunnysidd/)  [![Gmail](https://img.shields.io/badge/-siddhartharaghuvanshi01@gmail.com-c14438?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFZbSgBGXMCtdPQSnMQJftPBZmNlnRGPVMSQtVjpgHVHxfgbDsNlvBSZHdpKTLpQMZWL)
 # 💻 Technology & Tools ⚙
 <span>
   <a href="https://github.com/akashdeep023">

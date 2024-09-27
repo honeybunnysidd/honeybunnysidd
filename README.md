@@ -1,4 +1,4 @@
-💫 Hey, I am Siddhartha Raghuvanshi 
+# 💫 Hey, I am Siddhartha Raghuvanshi🎯
 I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions.
 
 • Achieved 2nd Rank in my MCA program at IIMT University.
@@ -13,7 +13,7 @@ I am highly enthusiastic and dedicated full-stack web developer with a passion f
 Aspiring for a challenging career in Full Stack Web Development as to use my learned skills for the best results.
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect 🧷
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/honeybunnysidd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhartha-raghuvanshi/) 
 
 # 💻 Tech Stack:

@@ -2,7 +2,8 @@
   <b>Total Visitors</b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
-  <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
+  ---
+[![](https://visitcount.itsvg.in/api?id=honeybunnysidd&icon=0&color=9)](https://visitcount.itsvg.in)
   </a>
 </p>
 <a style="" href="https://github.com/honeybunnysidd">
@@ -46,8 +47,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=honeybunnysidd&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 ## 🧑‍🏫 All Projects
 

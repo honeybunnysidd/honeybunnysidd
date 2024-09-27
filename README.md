@@ -48,8 +48,8 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-redw?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
-[![Instagram](https://img.shields.io/badge/git%20-%23F05033.svg?logo=Git&logoColor=white)] 
 </span>
+[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?logo=Git&logoColor=white)] 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>

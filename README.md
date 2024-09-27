@@ -52,8 +52,11 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 # 📊 GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=honeybunnysidd&theme=radical&no-frame=false&no-bg=true&margin-w=4)

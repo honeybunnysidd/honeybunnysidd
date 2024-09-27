@@ -1,11 +1,5 @@
-<p align="center">
-  <b>Total Visitors</b>
-  <br>
-  <a style="" href="https://github.com/honeybunnysidd">
-    </p>
   ---
 [![](https://visitcount.itsvg.in/api?id=honeybunnysidd&icon=0&color=9)](https://visitcount.itsvg.in)
-  </a>
 
 <a style="" href="https://github.com/honeybunnysidd">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">

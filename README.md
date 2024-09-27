@@ -1,9 +1,9 @@
-# 💫 Hey, I am Siddhartha:
+💫 Hey, I am Siddhartha Raghuvanshi 
 I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions.
 
-• Strong technical skills in 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒𝟑, 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝, 𝐌𝐲𝐒𝐐𝐋, and 𝐌𝐨𝐧𝐠𝐨𝐃𝐁.
-
 • Achieved 2nd Rank in my MCA program at IIMT University.
+
+• Strong technical skills in 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒𝟑, 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝, 𝐌𝐲𝐒𝐐𝐋, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁 and **Data Structure & Algorithm with Java**.
 
 • Participated in 'SIH (Smart India Hackathons)' as a Team Leader, among pool of 24 teams.
 

@@ -1,12 +1,12 @@
 <p align="center">
-  <b style="color: blue;  ">Total Visitors</b>
+  <b style="color: blue;">Total Visitors</b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
   <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
   </a>
 </p>
 <a style="" href="https://github.com/honeybunnysidd">
-<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px; border-radius=15px">
 </a>
 
 # 💫 Hey, I am Siddhartha Raghuvanshi🎯

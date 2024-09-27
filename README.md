@@ -1,14 +1,14 @@
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
+<p align="center"><b style="color: blue;">Visitor count</b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
-  <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
+    <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
   </a>
 </p>
 
 # 💫Hey! I am Siddhartha Raghuvanshi🎯
 <a style="" href="https://github.com/honeybunnysidd">
-<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+  <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" 
+    width="50%" height="70%" style="margin:0 50px;">
 </a>
 <p>I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions. </p>
 
@@ -28,6 +28,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-raghuvanshi/)
 [![Gmail](https://img.shields.io/badge/-siddhartharaghuvanshi01@gmail.com-c14438?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCQzxBtpJMpdRgPPPjggrNlSRqjWGcPLszrtjMHHNWPcGwJjDWxzVwJXXkbkCdScTLzDs)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/honeybunnysidd/) 
+
 # 💻 Technology & Tools ⚙
 <span>
   <a href="https://github.com/honeybunnysidd">

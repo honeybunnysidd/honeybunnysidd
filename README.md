@@ -104,9 +104,4 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 ---
 
-<img src="https://imgur.com/rilHVxA.png"/>
-
-<!---
-honeybunnysidd/honeybunnysidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/honeybunnysidd"><img src="https://imgur.com/rilHVxA.png"/></a>

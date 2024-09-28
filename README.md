@@ -51,22 +51,24 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 </span>
 
 # 📊 GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)
+<a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)</a>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical)
+<a href="https://github.com/honeybunnysidd">![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)</a>
+<br/>
+
+<a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical)</a>
+<br/>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=honeybunnysidd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/honeybunnysidd">![](https://github-profile-trophy.vercel.app/?username=honeybunnysidd&theme=radical&no-frame=false&no-bg=true&margin-w=4)</a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<a href="https://github.com/honeybunnysidd">![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)</a>
 
 ### ✍️ Develper's Journey 🎯
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<a href="https://github.com/honeybunnysidd">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</a>
 
 ## 👨🏻‍💻 Projects 🚀
 

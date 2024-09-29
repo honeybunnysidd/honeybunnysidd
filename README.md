@@ -74,7 +74,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 ## 👨🏻‍💻 Projects 🚀
 
-| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
+| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linkedin Post                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  01  | Chat App       | [Link](https://chat-application-.vercel.app/)       | [Repository](https://github.com/honeybunnysidd/Chat_App)       |     [Post](https://www.linkedin.com/posts/honeybunnysidd-mernabrstack)      |
 |  02  |  <a href="https://github.com/honeybunnysidd" >  <img src= "https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white"> </a>| [Link](https://airbnb-project-major.onrender.com/) | [Repository](https://github.com/honeybunnysidd/Airbnb_Project) | [Post](https://www.linkedin.com/posts/honeybunnysidd/_desktop) |

@@ -1,4 +1,4 @@
-<p align="center"><b style="color: blue;">Total Visitor</b>
+<p align="center"><b style="color: blue;"> <a href = "https://github.com/honeybunnysidd"><img src="https://img.shields.io/badge/Total Visitors-%23ff5a5f.svg?style=for-the-badge"></a></b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
     <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />

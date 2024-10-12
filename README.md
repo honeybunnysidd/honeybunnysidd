@@ -52,6 +52,24 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 </a>
 </span>
 
+## 👨🏻‍💻 Projects 🚀
+
+| S.No | Master Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    | Linkedin Post
+| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
+|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  | [Post](https://github.com/honeybunnysidd/Slide-bar) |
+
+
+
+| S.No | Major Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
+| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
+|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
+
+
+| S.No | Mini Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
+| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
+|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
+
+
 # 📊 GitHub Statistics:
 <a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)</a>
 <br/>
@@ -72,37 +90,6 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 ### ✍️ Develper's Journey 🎯
 <a href="https://github.com/honeybunnysidd">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</a>
 
-## 👨🏻‍💻 Projects 🚀
-
-| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linkedin Post                                                                                |
-| :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Chat App       | [Link](https://chat-application-.vercel.app/)       | [Repository](https://github.com/honeybunnysidd/Chat_App)       |     [Post](https://www.linkedin.com/posts/honeybunnysidd-mernabrstack)      |
-|  02  |  <a href="https://github.com/honeybunnysidd" >  <img src= "https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white"> </a>| [Link](https://airbnb-project-major.onrender.com/) | [Repository](https://github.com/honeybunnysidd/Airbnb_Project) | [Post](https://www.linkedin.com/posts/honeybunnysidd/_desktop) |
-|  03  | Food Plaza     |    [Link](https://food-plaza.onrender.com/)     |   [Repository](https://github.com/honeybunnysidd/Food_Plaza)   |    [Post](https://www.linkedin.com/posts/honeybunnysidd/_desktop)    |
-|  04  | Netflix Gpt    |      [Link](https://netflix-gpt-.vercel.app/)       |  [Repository](https://github.com/honeybunnysidd/Netflix_Gpt)   |          [Post](https://www.linkedin.com/posts/honeybunnysidd/_desktop)          |
-|  05  | Cors Handler   |        [Link](https://cors.vercel.app/)        |  [Repository](https://github.com/honeybunnysidd/Cors_Handler) <sup>P</sup>  |     [Post](https://www.linkedin.com/posts/honeybunnysidd/_desktop)     |
-|  06  | Code With      |        [Link](https://code.vercel.app/)            |   [Repository](https://github.com/honeybunnysidd/Code_With) <sup>P</sup>  |     [Post]() <sup>Wait</sup>     |
-
-
-| S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
-| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Life Track         |     [Link](https://todo-.vercel.app/)      |           [Repository](https://github.com/honeybunnysidd/Todo_Mern)            |
-|  02  | Weather Widget     | [Link](https://-widget-react-jack.netlify.app/) |         [Repository](https://github.com/honeybunnysidd/Weather_Widget)         |
-|  03  | SimonSay Game Js   | [Link](https://honeybunnysidd.github.io/SimonSay_Game/)  |         [Repository](https://github.com/honeybunnysidd/SimonSay_Game)          |
-|  04  | Amazon Clone       |  [Link](https://honeybunnysidd.github.io/Amazon-Clone/)  |          [Repository](https://github.com/honeybunnysidd/Amazon-Clone)          |
-|  05  | Spotify Clone      | [Link](https://honeybunnysidd.github.io/Spotify-Clone/)  | [Repository](https://github.com/honeybunnysidd/Spotify-Clone) <sup>N-Res</sup> |
-|  06  | WhatApp Chat       |        [Link](https://github.com/honeybunnysidd/)        |                        [Repository]() <sup>Wait</sup>                        |
-|  07  | ToDo Game Redux    |   [Link](https://todo--redux-jack.netlify.app/)    |        [Repository](https://github.com/honeybunnysidd/ToDo-List-Redux)         |
-|  08  | ToDo Game React    |   [Link](https://task--react-jack.netlify.app/)    |        [Repository](https://github.com/honeybunnysidd/ToDo-List-React)         |
-|  09  | ToDo Game Js       |   [Link](https://honeybunnysidd.github.io/ToDo_Game/)    |          [Repository](https://github.com/honeybunnysidd/ToDo_Game_Js)          |
-|  10  | Lottery Game       |  [Link](https://lottery--react-jack.netlify.app/)  |          [Repository](https://github.com/honeybunnysidd/Lottery-Game)          |
-
-| S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
-| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | MT Project       |       [Link](https://mt--jack.netlify.app/)       |    [Repository](https://github.com/honeybunnysidd/MT_Project)    |
-|  02  | Css Mini Project | [Link](https://honeybunnysidd.github.io/CSS-Mini-Project/) | [Repository](https://github.com/honeybunnysidd/CSS-Mini-Project) |
-|  03  | Insta Story Js   |  [Link](https://honeybunnysidd.github.io/Insta_Story_Js/)  |  [Repository](https://github.com/honeybunnysidd/Insta_Story_Js)  |
-|  04  | Card Project Js  | [Link](https://honeybunnysidd.github.io/Card_Project_Js/)  | [Repository](https://github.com/honeybunnysidd/Card_Project_Js)  |
 
 ---
 

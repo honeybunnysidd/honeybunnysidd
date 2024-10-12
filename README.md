@@ -62,7 +62,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | S.No | Major Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
+|  01  | Spotify Homepage's Clone  | [Link](https://honeybunnysidd.github.io/Spotify-Clone/)  | [Repository](https://github.com/honeybunnysidd/Spotify-Clone)  | HTML , CSS & JavaScript  |
 
 
 | S.No | Mini Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |

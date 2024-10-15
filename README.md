@@ -67,7 +67,8 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | S.No | Mini Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
+|  01  | Latest Landing Page| [Link](https://github.com/honeybunnysidd/Latest-Landing-Page)  | [Repository](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | HTML & CSS  |
+|  02  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
 
 
 # 📊 GitHub Statistics:

@@ -56,13 +56,14 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | S.No | Master Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    | Linkedin Post
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  | [Post](https://github.com/honeybunnysidd/Slide-bar) |
+|  01  | Will Share Soon  | [Link](https://honeybunnysidd.github.io)  | [Repository](https://github.com/honeybunnysidd/)  | ***  | [Post](https://github.com/honeybunnysidd/) |
 
 
 
 | S.No | Major Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 |  01  | Spotify Homepage's Clone  | [Link](https://honeybunnysidd.github.io/Spotify-Clone/)  | [Repository](https://github.com/honeybunnysidd/Spotify-Clone)  | HTML , CSS & JavaScript  |
+|  02  | TruStay: Book & Travel| [Link](https://honeybunnysidd.github.io/TruStay-Travel)  | [Repository](https://github.com/honeybunnysidd/TruStay-Travel)  | Working<sup>**</sup>  |
 
 
 | S.No | Mini Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |

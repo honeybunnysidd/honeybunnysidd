@@ -1,3 +1,4 @@
+<!--Profile counter-->
 <p align="center"><b style="color: blue;"> <a href = "https://github.com/honeybunnysidd"><img src="https://img.shields.io/badge/Total Visitors-%23ff5a5f.svg?style=for-the-badge"></a></b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
@@ -5,6 +6,7 @@
   </a>
 </p>
 
+<!--About and Bio-->
 # 💫Hey! I am Siddhartha Raghuvanshi🎯
 <a style="" href="https://github.com/honeybunnysidd">
   <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" 
@@ -23,12 +25,13 @@
 #OpenToWork
 Aspiring for a challenging career in Full Stack Web Development as to use my learned skills for the best results.
 
-
+<!--Connection-->
 ## 🌐 Let's Connect 🧷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-raghuvanshi/)
 [![Gmail](https://img.shields.io/badge/-siddhartharaghuvanshi01@gmail.com-c14438?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCQzxBtpJMpdRgPPPjggrNlSRqjWGcPLszrtjMHHNWPcGwJjDWxzVwJXXkbkCdScTLzDs)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/honeybunnysidd/) 
 
+<!--Learned Skills-->
 # 💻 Technology & Tools ⚙
 <span>
   <a href="https://github.com/honeybunnysidd">
@@ -52,6 +55,8 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 </a>
 </span>
 
+<!--Deploye Projects-->
+
 ## 👨🏻‍💻 Projects 🚀
 
 | S.No | Master Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    | Linkedin Post
@@ -74,23 +79,22 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 
 # 📊 GitHub Statistics:
+<div>
+  
 <a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)</a>
-<br/>
-
-<a href="https://github.com/honeybunnysidd">![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)</a>
-<br/>
-
 <a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical)</a>
-<br/>
+
+<a href="https://github.com/honeybunnysidd">![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)</a>
+<a href="https://github.com/honeybunnysidd">![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)</a>
+
+</div>
 
 
 ## 🏆 GitHub Trophies
 <a href="https://github.com/honeybunnysidd">![](https://github-profile-trophy.vercel.app/?username=honeybunnysidd&theme=radical&no-frame=false&no-bg=true&margin-w=4)</a>
 
-### 🔝 Top Contributed Repo
-<a href="https://github.com/honeybunnysidd">![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)</a>
-
 ### ✍️ Develper's Journey 🎯
+
 <a href="https://github.com/honeybunnysidd">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</a>
 
 

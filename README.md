@@ -1,5 +1,6 @@
 <!--Profile counter-->
-<p align="center"><b style="color: blue;"> <a href = "https://github.com/honeybunnysidd"><img src="https://img.shields.io/badge/Total Visitors-%23ff5a5f.svg?style=for-the-badge"></a></b>
+<p align="center">
+  <b style="color: blue;"> <a href = "https://github.com/honeybunnysidd"><img src="https://img.shields.io/badge/Total Visitors-%23ff5a5f.svg?style=for-the-badge"></a></b>
   <br>
   <a style="" href="https://github.com/honeybunnysidd">
     <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
@@ -79,14 +80,16 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 
 # 📊 GitHub Statistics:
-<div>
-  
-<a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues)</a>
-<a href="https://github.com/honeybunnysidd">![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical)</a>
 
+  <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/honeybunnysidd">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/honeybunnysidd">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/></a>
+    
 <a href="https://github.com/honeybunnysidd">![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)</a>
-<a href="https://github.com/honeybunnysidd">![](https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&theme=tokyonight&hide_border=false)</a>
-
+<a href="https://github.com/honeybunnysidd"> <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&hide_border=true&theme=transparent" /> </a>
 </div>
 
 

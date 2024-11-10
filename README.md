@@ -77,7 +77,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 |  01  | Animated Landing Page | [Link](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [Repository](https://github.com/honeybunnysidd/Animated-Landing-Page)  | HTML , CSS & Bootstrap  |
 |  02  | Latest Landing Page| [Link](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [Repository](https://github.com/honeybunnysidd/Latest-Landing-Page)  | HTML & CSS  |
 |  03  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
-|  04  | Music Home Page  | [Link](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [Repository](github.com/honeybunnysidd/Music-Landing-Home-Page.git)  | HTML & CSS  |
+|  04  | Music Home Page  | [Link](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [Repository](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | HTML & CSS  |
 
 
 # 📊 GitHub Statistics:

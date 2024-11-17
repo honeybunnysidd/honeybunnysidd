@@ -68,7 +68,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | S.No | Major Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Portfolio | [Link](honeybunnysidd.github.io/Portfolio/)  | [Repository](https://github.com/honeybunnysidd/Portfolio)  | Working***  |
+|  01  | Portfolio | [Link](https://honeybunnysidd.github.io/Portfolio/)  | [Repository](https://github.com/honeybunnysidd/Portfolio)  | Working***  |
 |  02  | Spotify Homepage's Clone  | [Link](https://honeybunnysidd.github.io/Spotify-Clone/)  | [Repository](https://github.com/honeybunnysidd/Spotify-Clone)  | HTML , CSS & JavaScript  |
 |  03  | TruStay: Book & Travel| [Link](https://honeybunnysidd.github.io/TruStay-Travel)  | [Repository](https://github.com/honeybunnysidd/TruStay-Travel)  | HTML & CSS  |
 

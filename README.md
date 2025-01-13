@@ -84,16 +84,20 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 # 📊 GitHub Statistics:
 
-  <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/honeybunnysidd">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
-</a>
-<a style="" href="https://github.com/honeybunnysidd">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&layout=donut-vertical"/></a>
-    
-<a href="https://github.com/honeybunnysidd">![](https://github-contributor-stats.vercel.app/api?username=honeybunnysidd&limit=5&theme=onedark&combine_all_yearly_contributions=true)</a>
-<a href="https://github.com/honeybunnysidd"> <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&hide_border=true&theme=transparent" /> </a>
+<div align="left" style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+    <a style="" href="https://github.com/honeybunnysidd">
+        <img height=350 src="https://github-readme-stats.vercel.app/api?username=honeybunnysidd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+    </a>
+    <a style="" href="https://github.com/honeybunnysidd">
+        <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybunnysidd&theme=tokyonight&hide_border=true&layout=donut-vertical"/>
+    </a>
 </div>
+<a style="" href="https://github.com/honeybunnysidd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honeybunnysidd&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/honeybunnysidd"> <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&hide_border=true&theme=transparent" /> </a>
+
 
 
 ## 🏆 GitHub Trophies

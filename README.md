@@ -75,11 +75,12 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | S.No | Mini Project    |                        Live Link                        |                          GitHub                          |                 Technology Used                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | To Do Js | [Link](https://honeybunnysidd.github.io/To-Do-Web)  | [Repository](https://github.com/honeybunnysidd/To-Do-Web)  | HTML , CSS & JavaScript  |
-|  02  | Animated Landing Page | [Link](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [Repository](https://github.com/honeybunnysidd/Animated-Landing-Page)  | HTML , CSS & Bootstrap  |
-|  03  | Latest Landing Page| [Link](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [Repository](https://github.com/honeybunnysidd/Latest-Landing-Page)  | HTML & CSS  |
-|  04  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
-|  05  | Music Home Page  | [Link](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [Repository](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | HTML & CSS  |
+|  01  | Simon Say Game | [Link](https://honeybunnysidd.github.io/SimonSay-Game/)  | [Repository](https://github.com/honeybunnysidd/SimonSay-Game)  | HTML , CSS & JavaScript  |
+|  02  | To Do Js | [Link](https://honeybunnysidd.github.io/To-Do-Web)  | [Repository](https://github.com/honeybunnysidd/To-Do-Web)  | HTML , CSS & JavaScript  |
+|  03  | Animated Landing Page | [Link](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [Repository](https://github.com/honeybunnysidd/Animated-Landing-Page)  | HTML , CSS & Bootstrap  |
+|  04  | Latest Landing Page| [Link](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [Repository](https://github.com/honeybunnysidd/Latest-Landing-Page)  | HTML & CSS  |
+|  05  | Slide Bar Menu  | [Link](https://honeybunnysidd.github.io/Slide-bar/)  | [Repository](https://github.com/honeybunnysidd/Slide-bar)  | HTML & CSS  |
+|  06  | Music Home Page  | [Link](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [Repository](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | HTML & CSS  |
 
 
 # 📊 GitHub Statistics:
@@ -96,7 +97,9 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honeybunnysidd&theme=tokyonight"/>
 </a>
 
+<!-- 
 <a href="https://github.com/honeybunnysidd"> <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybunnysidd&hide_border=true&theme=transparent" /> </a>
+-->
 
 
 

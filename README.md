@@ -9,11 +9,11 @@
 
 <!--About and Bio-->
 # 💫Hey! I am Siddhartha Raghuvanshi🎯
-<a style="" href="https://github.com/honeybunnysidd">
-  <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" 
-    width="50%" height="70%" style="margin:0 50px;">
+<a style="margin-left: 50px;" href="https://github.com/honeybunnysidd">
+  <img align="right" src="./img.gif" 
+    width="40%" height="40%" >
 </a>
-<p>I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions. </p>
+<p> <i>I am highly enthusiastic and dedicated full-stack web developer with a passion for creating user-friendly web applications, Proven ability to deliver high-quality web solutions that effectively translate business requirements into technical solutions.</i></p>
 
 • Achieved 2nd Rank in my MCA program at IIMT University.
 

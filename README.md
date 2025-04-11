@@ -77,10 +77,11 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 |  `01`  | `Simon Say Game` | [`Link`](https://honeybunnysidd.github.io/SimonSay-Game/)  | [`Repository`](https://github.com/honeybunnysidd/SimonSay-Game)  | `HTML , CSS & JavaScript`  |
 |  `02`  | `To Do Js` | [`Link`](https://honeybunnysidd.github.io/To-Do-Web)  | [`Repository`](https://github.com/honeybunnysidd/To-Do-Web)  | `HTML , CSS & JavaScript`  |
 |  `03`  | `Temperature Converter` | [`Link`](https://honeybunnysidd.github.io/Temperature-Converter)  | [`Repository`](https://github.com/honeybunnysidd/Temperature-Converter)  | `HTML , CSS & JavaScript`  |
-|  `04`  | `Animated Landing Page` | [`Link`](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [`Repository`](https://github.com/honeybunnysidd/Animated-Landing-Page)  | `HTML , CSS & Bootstrap`  |
-|  `05`  | `Latest Landing Page` | [`Link`](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Latest-Landing-Page)  | `HTML & CSS`  |
-|  `06`  | `Slide Bar Menu`  | [`Link`](https://honeybunnysidd.github.io/Slide-bar/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-bar)  | `HTML & CSS`  |
-|  `07`  | `Music Home Page`  | [`Link`](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | `HTML & CSS`  |
+|  `04`  | `SlideBar-UI` | [`Link`](https://honeybunnysidd.github.io/Slide-Bar-UI/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-Bar-UI)  | `HTML , CSS & JavaScript`  |
+|  `05`  | `Animated Landing Page` | [`Link`](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [`Repository`](https://github.com/honeybunnysidd/Animated-Landing-Page)  | `HTML , CSS & Bootstrap`  |
+|  `06`  | `Latest Landing Page` | [`Link`](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Latest-Landing-Page)  | `HTML & CSS`  |
+|  `07`  | `Slide Bar Menu`  | [`Link`](https://honeybunnysidd.github.io/Slide-bar/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-bar)  | `HTML & CSS`  |
+|  `08`  | `Music Home Page`  | [`Link`](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | `HTML & CSS`  |
 
 
 # 📊 GitHub Statistics:

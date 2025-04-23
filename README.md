@@ -76,14 +76,15 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 | `S.No` | `Mini Project`    |                        `Live Link`                        |                          `GitHub`                          |                 `Technology Used`                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 |  `01`  | `To Do React` | [`Link`](https://todo-react-sidd.vercel.app/)  | [`Repository`](https://github.com/honeybunnysidd/Todo-React)  | `React, CSS & JavaScript`  |
-|  `02`  | `Simon Say Game` | [`Link`](https://honeybunnysidd.github.io/SimonSay-Game/)  | [`Repository`](https://github.com/honeybunnysidd/SimonSay-Game)  | `HTML , CSS & JavaScript`  |
-|  `03`  | `To Do Js` | [`Link`](https://honeybunnysidd.github.io/To-Do-Web)  | [`Repository`](https://github.com/honeybunnysidd/To-Do-Web)  | `HTML , CSS & JavaScript`  |
-|  `04`  | `Temperature Converter` | [`Link`](https://honeybunnysidd.github.io/Temperature-Converter)  | [`Repository`](https://github.com/honeybunnysidd/Temperature-Converter)  | `HTML , CSS & JavaScript`  |
-|  `05`  | `SlideBar-UI` | [`Link`](https://honeybunnysidd.github.io/Slide-Bar-UI/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-Bar-UI)  | `HTML , CSS & JavaScript`  |
-|  `06`  | `Animated Landing Page` | [`Link`](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [`Repository`](https://github.com/honeybunnysidd/Animated-Landing-Page)  | `HTML , CSS & Bootstrap`  |
-|  `07`  | `Latest Landing Page` | [`Link`](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Latest-Landing-Page)  | `HTML & CSS`  |
-|  `08`  | `Slide Bar Menu`  | [`Link`](https://honeybunnysidd.github.io/Slide-bar/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-bar)  | `HTML & CSS`  |
-|  `09`  | `Music Home Page`  | [`Link`](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | `HTML & CSS`  |
+|  `02`  | `Lottery Game` | [`Link`](https://lottery-game-sidd.vercel.app/)  | [`Repository`](https://github.com/honeybunnysidd/Lottery-Game)  | `React , CSS & JavaScript`  |
+|  `03`  | `Simon Say Game` | [`Link`](https://honeybunnysidd.github.io/SimonSay-Game/)  | [`Repository`](https://github.com/honeybunnysidd/SimonSay-Game)  | `HTML , CSS & JavaScript`  |
+|  `04`  | `To Do Js` | [`Link`](https://honeybunnysidd.github.io/To-Do-Web)  | [`Repository`](https://github.com/honeybunnysidd/To-Do-Web)  | `HTML , CSS & JavaScript`  |
+|  `05`  | `Temperature Converter` | [`Link`](https://honeybunnysidd.github.io/Temperature-Converter)  | [`Repository`](https://github.com/honeybunnysidd/Temperature-Converter)  | `HTML , CSS & JavaScript`  |
+|  `06`  | `SlideBar-UI` | [`Link`](https://honeybunnysidd.github.io/Slide-Bar-UI/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-Bar-UI)  | `HTML , CSS & JavaScript`  |
+|  `07`  | `Animated Landing Page` | [`Link`](https://honeybunnysidd.github.io/Animated-Landing-Page)  | [`Repository`](https://github.com/honeybunnysidd/Animated-Landing-Page)  | `HTML , CSS & Bootstrap`  |
+|  `08`  | `Latest Landing Page` | [`Link`](https://honeybunnysidd.github.io/Latest-Landing-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Latest-Landing-Page)  | `HTML & CSS`  |
+|  `09`  | `Slide Bar Menu`  | [`Link`](https://honeybunnysidd.github.io/Slide-bar/)  | [`Repository`](https://github.com/honeybunnysidd/Slide-bar)  | `HTML & CSS`  |
+|  `10`  | `Music Home Page`  | [`Link`](https://honeybunnysidd.github.io/Music-Landing-Home-Page/)  | [`Repository`](https://github.com/honeybunnysidd/Music-Landing-Home-Page)  | `HTML & CSS`  |
 
 
 # 📊 GitHub Statistics:

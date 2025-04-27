@@ -62,15 +62,16 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 ## 👨🏻‍💻 Projects 🚀
 
-| `S.No` | `Major Project`    |                        `Live Link`                        |                          `GitHub`                          |  
+| `S.No` | `Master Project`    |                        `Live Link`                        |                          `GitHub`                          |  
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
 |  `01`  | `GharSetu` | [`Link`](https://gharsetu.onrender.com/)  | [`Repository`](https://github.com/honeybunnysidd/GharSetu)  |
 
 | `S.No` | `Major Project`    |                        `Live Link`                        |                          `GitHub`                          |                 `Technology Used`                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 |  `01`  | `Portfolio` | [`Link`](https://honeybunnysidd.github.io/Portfolio/)  | [`Repository`](https://github.com/honeybunnysidd/Portfolio)  | `Working***`  |
-|  `02`  | `Spotify Homepage's Clone`  | [`Link`](https://honeybunnysidd.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/honeybunnysidd/Spotify-Clone)  | `HTML , CSS & JavaScript`  |
-|  `03`  | `TruStay: Book & Travel` | [`Link`](https://honeybunnysidd.github.io/TruStay-Travel)  | [`Repository`](https://github.com/honeybunnysidd/TruStay-Travel)  | `HTML & CSS`  |
+|  `02`  | `Weather App` | [`Link`](https://weather-app-sidd.vercel.app/)  | [`Repository`](https://github.com/honeybunnysidd/Weather-App)  | `React, Vite, M-UI, HTML, CSS & JavaScript`  |
+|  `03`  | `Spotify Homepage's Clone`  | [`Link`](https://honeybunnysidd.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/honeybunnysidd/Spotify-Clone)  | `HTML , CSS & JavaScript`  |
+|  `04`  | `TruStay: Book & Travel` | [`Link`](https://honeybunnysidd.github.io/TruStay-Travel)  | [`Repository`](https://github.com/honeybunnysidd/TruStay-Travel)  | `HTML & CSS`  |
 
 
 | `S.No` | `Mini Project`    |                        `Live Link`                        |                          `GitHub`                          |                 `Technology Used`                    |

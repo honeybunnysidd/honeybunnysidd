@@ -68,7 +68,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 
 | `S.No` | `Major Project`    |                        `Live Link`                        |                          `GitHub`                          |                 `Technology Used`                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|  `01`  | `Portfolio` | [`Link`](https://iamsiddhartha.vercel.app/)  | [`Repository`](Private Repo)  | `HTML , CSS & JavaScript`  |
+|  `01`  | `Portfolio` | [`Link`](https://iamsiddhartha.vercel.app/)  | [`Private Repo`]()  | `HTML , CSS & JavaScript`  |
 |  `02`  | `Weather App` | [`Link`](https://weather-app-sidd.vercel.app/)  | [`Repository`](https://github.com/honeybunnysidd/Weather-App)  | `React, Vite, M-UI, HTML, CSS & JavaScript`  |
 |  `03`  | `Spotify Homepage's Clone`  | [`Link`](https://honeybunnysidd.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/honeybunnysidd/Spotify-Clone)  | `HTML , CSS & JavaScript`  |
 |  `04`  | `TruStay: Book & Travel` | [`Link`](https://honeybunnysidd.github.io/TruStay-Travel)  | [`Repository`](https://github.com/honeybunnysidd/TruStay-Travel)  | `HTML & CSS`  |

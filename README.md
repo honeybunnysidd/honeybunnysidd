@@ -65,6 +65,7 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 | `S.No` | `Master Project`    |                        `Live Link`                        |                          `GitHub`                          |  
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
 |  `01`  | `GharSetu` | [`Link`](https://gharsetu.onrender.com/)  | [`Repository`](https://github.com/honeybunnysidd/GharSetu)  |
+|  `02`  | `DevMate` | [`Link`]()  | [`Repository`]()  |
 
 | `S.No` | `Major Project`    |                        `Live Link`                        |                          `GitHub`                          |                 `Technology Used`                    |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |

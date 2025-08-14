@@ -1,10 +1,10 @@
 <!--Profile counter-->
 <p align="center">
-  <b style="color: blue;"> <a href = "https://github.com/honeybunnysidd"><img src="https://img.shields.io/badge/Total Visitors-%23ff5a5f.svg?style=for-the-badge"></a></b>
-  <br>
-  <a style="" href="https://github.com/honeybunnysidd">
-    <img src="https://profile-counter.glitch.me/honeybunnysidd/count.svg" />
-  </a>
+    <b style="color: blue;  ">Visitor count</b>
+    <br>
+    <a style="" href="https://github.com/honeybunnysidd">
+        <img src="https://page-visitor.vercel.app/honeybunnysidd/count.svg" />
+    </a>
 </p>
 
 <!--About and Bio-->
@@ -29,8 +29,10 @@ Aspiring for a challenging career in Full Stack Web Development as to use my lea
 <!--Connection-->
 ## 🌐 Let's Connect 🧷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-raghuvanshi/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23f89f1b.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/honeybunnysidd/)
 [![Gmail](https://img.shields.io/badge/-siddhartharaghuvanshi01@gmail.com-c14438?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCQzxBtpJMpdRgPPPjggrNlSRqjWGcPLszrtjMHHNWPcGwJjDWxzVwJXXkbkCdScTLzDs)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/honeybunnysidd/) 
+
 
 <!--Learned Skills-->
 # 💻 Technology & Tools ⚙
